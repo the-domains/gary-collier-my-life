@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[About Me]]></title>
         <description><![CDATA[About Me]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gary-collier-my-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 14:10:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 14:11:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gary-collier-my-life/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>About Me</p>]]></description>
-            <link>undefinedabout-me/index.html</link>
+            <link>https://thegrid.ai/gary-collier-my-life/about-me/index.html</link>
             <guid isPermaLink="false">50d8d9d4-ea2e-4691-8dc9-fd7b02ca7bc8</guid>
-            <pubDate>Thu, 14 Apr 2016 14:10:26 GMT</pubDate>
+            <pubDate>Thu, 14 Apr 2016 14:11:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
