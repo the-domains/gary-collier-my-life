@@ -1,0 +1,28 @@
+name: 'Gary Collier : My Life'
+favicon: null
+layout_spectrum: 0.9980272923130542
+typography_spectrum: 0.37318958551622927
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7857741969637573
+  lightness: 0.4744924930855632
+  saturation: 0.2222859743051231
+  rhythmicContrast: 0.744828736409545
+purpose: []
