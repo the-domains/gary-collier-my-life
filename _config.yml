@@ -2,6 +2,7 @@ name: 'Gary Collier : My Life'
 favicon: null
 layout_spectrum: 0.9980272923130542
 typography_spectrum: 0.37318958551622927
+title: About Me
 cta:
   domain: null
   bucket: null
